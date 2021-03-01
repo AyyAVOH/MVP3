@@ -1,8 +1,5 @@
 {
-  "spriteId": {
-    "name": "spWallforMovingWall",
-    "path": "sprites/spWallforMovingWall/spWallforMovingWall.yy",
-  },
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
@@ -20,15 +17,17 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"isDnD":true,"eventNum":0,"eventType":3,"collisionObjectId":null,"parent":{"name":"objGameController","path":"objects/objGameController/objGameController.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Pause Menu Objects",
+    "path": "folders/Objects/Menu Objects/Pause Menu Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "objClearWalls",
+  "name": "objGameController",
   "tags": [],
   "resourceType": "GMObject",
 }

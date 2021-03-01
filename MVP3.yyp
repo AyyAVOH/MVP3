@@ -1,13 +1,23 @@
 {
   "resources": [
+    {"id":{"name":"rmHowtoPlay","path":"rooms/rmHowtoPlay/rmHowtoPlay.yy",},"order":2,},
+    {"id":{"name":"rmGameFinished","path":"rooms/rmGameFinished/rmGameFinished.yy",},"order":3,},
     {"id":{"name":"spWall2","path":"sprites/spWall2/spWall2.yy",},"order":3,},
+    {"id":{"name":"rmMainMenu","path":"rooms/rmMainMenu/rmMainMenu.yy",},"order":1,},
     {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
+    {"id":{"name":"spPauseScreen","path":"sprites/spPauseScreen/spPauseScreen.yy",},"order":5,},
     {"id":{"name":"spWallforMovingWall","path":"sprites/spWallforMovingWall/spWallforMovingWall.yy",},"order":4,},
     {"id":{"name":"spWall","path":"sprites/spWall/spWall.yy",},"order":1,},
     {"id":{"name":"objLauncher","path":"objects/objLauncher/objLauncher.yy",},"order":2,},
+    {"id":{"name":"objGameController","path":"objects/objGameController/objGameController.yy",},"order":1,},
+    {"id":{"name":"fMenu","path":"fonts/fMenu/fMenu.yy",},"order":0,},
+    {"id":{"name":"objMenu","path":"objects/objMenu/objMenu.yy",},"order":0,},
     {"id":{"name":"objClearWalls","path":"objects/objClearWalls/objClearWalls.yy",},"order":4,},
+    {"id":{"name":"objPauseController","path":"objects/objPauseController/objPauseController.yy",},"order":0,},
     {"id":{"name":"objMovingWall","path":"objects/objMovingWall/objMovingWall.yy",},"order":3,},
     {"id":{"name":"objWall","path":"objects/objWall/objWall.yy",},"order":1,},
+    {"id":{"name":"objHowtoPlay","path":"objects/objHowtoPlay/objHowtoPlay.yy",},"order":1,},
+    {"id":{"name":"objTimer","path":"objects/objTimer/objTimer.yy",},"order":2,},
     {"id":{"name":"spLaunch","path":"sprites/spLaunch/spLaunch.yy",},"order":2,},
     {"id":{"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
@@ -24,7 +34,10 @@
     "children": [],
   },
   "RoomOrderNodes": [
+    {"roomId":{"name":"rmMainMenu","path":"rooms/rmMainMenu/rmMainMenu.yy",},},
+    {"roomId":{"name":"rmHowtoPlay","path":"rooms/rmHowtoPlay/rmHowtoPlay.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"rmGameFinished","path":"rooms/rmGameFinished/rmGameFinished.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
@@ -41,6 +54,8 @@
     {"folderPath":"folders/Animation Curves.yy","order":12,"resourceVersion":"1.0","name":"Animation Curves","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Notes.yy","order":13,"resourceVersion":"1.0","name":"Notes","tags":[],"resourceType":"GMFolder",},
     {"folderPath":"folders/Extensions.yy","order":14,"resourceVersion":"1.0","name":"Extensions","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Menu Objects.yy","order":5,"resourceVersion":"1.0","name":"Menu Objects","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/Objects/Menu Objects/Pause Menu Objects.yy","order":3,"resourceVersion":"1.0","name":"Pause Menu Objects","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
