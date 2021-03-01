@@ -1,5 +1,15 @@
 {
   "resources": [
+    {"id":{"name":"spWall2","path":"sprites/spWall2/spWall2.yy",},"order":3,},
+    {"id":{"name":"objPlayer","path":"objects/objPlayer/objPlayer.yy",},"order":0,},
+    {"id":{"name":"spWallforMovingWall","path":"sprites/spWallforMovingWall/spWallforMovingWall.yy",},"order":4,},
+    {"id":{"name":"spWall","path":"sprites/spWall/spWall.yy",},"order":1,},
+    {"id":{"name":"objLauncher","path":"objects/objLauncher/objLauncher.yy",},"order":2,},
+    {"id":{"name":"objClearWalls","path":"objects/objClearWalls/objClearWalls.yy",},"order":4,},
+    {"id":{"name":"objMovingWall","path":"objects/objMovingWall/objMovingWall.yy",},"order":3,},
+    {"id":{"name":"objWall","path":"objects/objWall/objWall.yy",},"order":1,},
+    {"id":{"name":"spLaunch","path":"sprites/spLaunch/spLaunch.yy",},"order":2,},
+    {"id":{"name":"spPlayer","path":"sprites/spPlayer/spPlayer.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
