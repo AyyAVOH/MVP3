@@ -3,6 +3,7 @@
     {"id":{"name":"sdGameFinished","path":"sounds/sdGameFinished/sdGameFinished.yy",},"order":3,},
     {"id":{"name":"rmHowtoPlay","path":"rooms/rmHowtoPlay/rmHowtoPlay.yy",},"order":2,},
     {"id":{"name":"sdLevel1","path":"sounds/sdLevel1/sdLevel1.yy",},"order":1,},
+    {"id":{"name":"spBackground","path":"sprites/spBackground/spBackground.yy",},"order":22,},
     {"id":{"name":"rmGameFinished","path":"rooms/rmGameFinished/rmGameFinished.yy",},"order":3,},
     {"id":{"name":"spChargeMeterSprites","path":"sprites/spChargeMeterSprites/spChargeMeterSprites.yy",},"order":19,},
     {"id":{"name":"sdHowtoTheme","path":"sounds/sdHowtoTheme/sdHowtoTheme.yy",},"order":2,},
