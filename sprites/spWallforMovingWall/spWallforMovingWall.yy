@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5196b360-b933-4f23-82bd-c201d4e5d435","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":1.0,"displayName":"default","resourceVersion":"1.0","name":"5196b360-b933-4f23-82bd-c201d4e5d435","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Sprites",

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spGateRed",
-    "path": "sprites/spGateRed/spGateRed.yy",
+    "name": "spGate",
+    "path": "sprites/spGate/spGate.yy",
   },
   "solid": false,
   "visible": true,
