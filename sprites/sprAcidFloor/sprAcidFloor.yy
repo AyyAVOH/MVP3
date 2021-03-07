@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d3d4ca42-9288-420d-a8ab-e55b8078b5a7","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Obstacle Sprites",
-    "path": "folders/Sprites/Obstacle Sprites.yy",
+    "name": "Enemy + Obstacle Sprites",
+    "path": "folders/Sprites/Enemy + Obstacle Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "sprAcidFloor",

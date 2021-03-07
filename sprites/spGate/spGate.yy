@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"441bd041-455d-4c9d-a568-4ee10bb9bf04","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Key + Gate Sprites",
+    "path": "folders/Sprites/Key + Gate Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spGate",

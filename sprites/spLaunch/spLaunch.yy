@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"b2a02192-e182-4e42-a925-0704bb0ec0c5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player + Player Objs Sprites",
+    "path": "folders/Sprites/Player + Player Objs Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spLaunch",

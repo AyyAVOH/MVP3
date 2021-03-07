@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"242e4df8-73c6-46c4-86c4-26c434b4cb02","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Obstacle Sprites",
-    "path": "folders/Sprites/Obstacle Sprites.yy",
+    "name": "Enemy + Obstacle Sprites",
+    "path": "folders/Sprites/Enemy + Obstacle Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "sprSaw",

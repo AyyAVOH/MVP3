@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":50.0,"displayName":"default","resourceVersion":"1.0","name":"1547aa63-8ea2-4100-9a57-342033ce6365","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Misc Sprites",
+    "path": "folders/Sprites/Misc Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spPauseScreen",

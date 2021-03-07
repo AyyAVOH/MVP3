@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"2e2c08a5-d112-4649-b9bb-daf0bcd17718","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Map Sprites",
+    "path": "folders/Sprites/Map Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spWall2",

@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Map Objects",
+    "path": "folders/Objects/Map Objects.yy",
   },
   "resourceVersion": "1.0",
   "name": "objClearWalls",

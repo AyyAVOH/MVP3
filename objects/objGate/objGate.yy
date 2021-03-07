@@ -34,8 +34,8 @@
   ],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Keys + Gates",
+    "path": "folders/Objects/Keys + Gates.yy",
   },
   "resourceVersion": "1.0",
   "name": "objGate",

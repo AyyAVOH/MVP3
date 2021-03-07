@@ -116,8 +116,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"c5c63a72-cbb5-4afc-ab46-5bde3e67e4cb","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Map Sprites",
+    "path": "folders/Sprites/Map Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spNextRoomVisual",

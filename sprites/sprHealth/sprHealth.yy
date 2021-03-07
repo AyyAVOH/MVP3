@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"80780391-c944-4fb4-a010-2d8996794bc5","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player + Player Objs Sprites",
+    "path": "folders/Sprites/Player + Player Objs Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "sprHealth",

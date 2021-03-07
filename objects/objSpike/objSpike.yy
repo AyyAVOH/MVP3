@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Obstacles",
-    "path": "folders/Objects/Obstacles.yy",
+    "name": "Enemy + Obstacles",
+    "path": "folders/Objects/Enemy + Obstacles.yy",
   },
   "resourceVersion": "1.0",
   "name": "objSpike",

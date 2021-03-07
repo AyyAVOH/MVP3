@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"fb4f2968-8827-4453-b3b9-1d91a2ce695b","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Player + Player Objs Sprites",
+    "path": "folders/Sprites/Player + Player Objs Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spChargeMeterSprites",

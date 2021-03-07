@@ -68,8 +68,8 @@
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5b25f50e-5e0f-4797-8800-9cb85d2845d3","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "Misc Sprites",
+    "path": "folders/Sprites/Misc Sprites.yy",
   },
   "resourceVersion": "1.0",
   "name": "spBackground",
