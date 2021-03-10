@@ -65,7 +65,7 @@
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"8c559399-a7f6-41a2-bdfa-3d926893f2cc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":50.0,"displayName":"default","resourceVersion":"1.0","name":"8c559399-a7f6-41a2-bdfa-3d926893f2cc","tags":[],"resourceType":"GMImageLayer",},
   ],
   "parent": {
     "name": "Player + Player Objs Sprites",
