@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spWall2",
-    "path": "sprites/spWall2/spWall2.yy",
+    "name": "sprSlidingFloor",
+    "path": "sprites/sprSlidingFloor/sprSlidingFloor.yy",
   },
   "solid": false,
   "visible": true,
